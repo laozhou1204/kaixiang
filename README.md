@@ -1,2 +1,2 @@
-# csgo开箱网站
+# csgo开箱网站导航
 https://kaixiang.co/
